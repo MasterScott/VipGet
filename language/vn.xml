@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+    <lines name="welcomeText" descr=""><![CDATA[Chào mừng bạn đến với Game Liberty Reserve. Trò chơi là rất dễ dàng để chơi và tất cả mọi người có thể giành chiến thắng lên tới 575% những gì đặt cược]]></lines>
+    <lines name="headerText" descr=""><![CDATA[Kiếm thật nhiều tiền bằng cách chơi những trò chơi nhỏ trên trang web]]></lines>
+    <lines name="menu_listgame" descr=""><![CDATA[Trò chơi]]></lines>
+    <lines name="menu_rule" descr=""><![CDATA[Luật chơi]]></lines>
+    <lines name="menu_term" descr=""><![CDATA[Thỏa thuận]]></lines>
+    <lines name="menu_contact" descr=""><![CDATA[Liên Hệ]]></lines>
+    <lines name="column_statastic" descr=""><![CDATA[Thống kê]]></lines>
+
+    <!-- Home -->
+    <lines name="home_welcome" descr=""><![CDATA[Chào mừng bạn quay lại !]]></lines>
+    <lines name="home_welcome1" descr=""><![CDATA[Không cần tạo tài khoản, đăng nhập hay tải về bất cứ thứ gì]]></lines>
+    <lines name="home_welcome2" descr=""><![CDATA[Dễ dàng chơi trò chơi của chúng tôi và kiếm được tiền]]></lines>
+    <lines name="home_welcome3" descr=""><![CDATA[Thanh toán tức thì qua phương thức thanh toán LibertyReserve]]></lines>
+    <lines name="home_welcome4" descr=""><![CDATA[Quyền lựa chọn phụ thuộc vào bạn]]></lines>
+    <lines name="home_welcome5" descr=""><![CDATA[Tiền thằng có thể lên tới 575%]]></lines>
+    <lines name="home_how" descr=""><![CDATA[Chơi thế nào ?]]></lines>
+    <lines name="home_how1" descr=""><![CDATA[Chọn từ các trò chơi chơi trong danh sách của chúng tôi dưới đây]]></lines>
+    <lines name="home_how2" descr=""><![CDATA[Đọc các quy định một cách cẩn thận. Và chơi công bằng]]></lines>
+    <lines name="home_how3" descr=""><![CDATA[Kiếm thật nhiều tiền từ trang web của chúng tôi]]></lines>
+    <lines name="home_how4" descr=""><![CDATA[Nếu có sai sót hoặc phát hiện đáng ngờ, xin vui lòng báo cáo lại cho chúng tôi]]></lines>
+    <lines name="home_game" descr=""><![CDATA[Trò chơi]]></lines>
+
+    <!-- Game -->
+    <lines name="game_dice" descr=""><![CDATA[Cược xúc xắc]]></lines>
+    <lines name="game_bomb" descr=""><![CDATA[Đặt Bomb]]></lines>
+
+    <!-- Dice Batch -->
+    <lines name="dice_title" descr=""><![CDATA[Cược xúc xắc]]></lines>
+    <lines name="dice_amount" descr=""><![CDATA[Cược (min 5P):]]></lines>
+    <lines name="dice_play" descr=""><![CDATA[Bắt Đầu]]></lines>
+    <lines name="dice_showhash" descr=""><![CDATA[Ấn chuột để hiện mã hóa của bạn]]></lines>
+    <lines name="dice_rule" descr=""><![CDATA[Luật chơi]]></lines>
+    <lines name="dice_rule1" descr=""><![CDATA[Chọn xúc xắc từ 1 - 6, và chọn số tiền muốn đặt cược]]></lines>
+    <lines name="dice_rule2" descr=""><![CDATA[Hệ thống tạo 5 số ngẫu nhiên kèm dãy ký tự an toàn để đảm bảo an toàn]]></lines>
+    <lines name="dice_rule3" descr=""><![CDATA[Thanh toán qua Liberty Reserve. Bạn sẽ cần phải đăng nhập vào cổng thanh toán]]></lines>
+    <lines name="dice_rule4" descr=""><![CDATA[Bạn sẽ tự động chuyển sang trang web LibertyReserve và thanh toán. Hoàn thành bạn sẽ xem đc kết quả ngay]]></lines>
+    <lines name="dice_rule5" descr=""><![CDATA[Bạn sẽ thắng 195% nếu bốn số cuối Batch + số ngẫu nhiên chứa số xúc sắc bạn đã cược]]></lines>
+    <lines name="dice_rule6" descr=""><![CDATA[Bạn được nhân gấp số tiền ứng với số lần xuất hiện]]></lines>
+    <lines name="dice_example" descr=""><![CDATA[Ví dụ]]></lines>
+    <lines name="dice_example1" descr=""><![CDATA[Bạn cược xúc xắc số <b class='dupResult'>3</b>]]></lines>
+    <lines name="dice_example2" descr=""><![CDATA[Bạn tiêu 1$ để đặt cược]]></lines>
+    <lines name="dice_example3" descr=""><![CDATA[Số ngẫu nhiên 6374/vNHI8SMcPC8FA&hiPrxn => hash: d58b1657a9af3aa92f5bcb53f0e5e824]]></lines>
+    <lines name="dice_example4" descr=""><![CDATA[Số dùng để so sánh là dãy 4 số cuối của tổng 6374 và BATCH NUMBER (Số 0 đc thay thế bằng 1 số bất kỳ)]]></lines>
+    <lines name="dice_example5" descr=""><![CDATA[Nếu 5 số cuối của BATCH NUMBER là 2993 -> So sánh 9<b class='dupResult'>3</b>67 -> Bạn thắng 195% -> Bạn nhận 1.95$]]></lines>
+    <lines name="dice_example6" descr=""><![CDATA[Nếu 5 số cuối của BATCH NUMBER là 1961 -> So sánh 8<b class='dupResult'>33</b>5 -> Bạn thắng 290% -> Bạn nhận 2.9$]]></lines>
+    <lines name="dice_example7" descr=""><![CDATA[Nếu 5 số cuối của BATCH NUMBER là 6963 -> So sánh <b class='dupResult'>333</b>7 -> Bạn thắng 385% -> Bạn nhận 3.85$]]></lines>
+    <lines name="dice_example8" descr=""><![CDATA[Nếu 5 số cuối của BATCH NUMBER là 6959 -> So sánh <b class='dupResult'>3333</b> -> Bạn thắng 480% -> Bạn nhận 4.8$]]></lines>
+    <lines name="dice_example9" descr=""><![CDATA[Nếu 5 số cuối của BATCH NUMBER là 1234 -> So sánh 7608 -> Bạn thua !]]></lines>
+
+    <!-- Bomb -->
+    <lines name="bomb_title" descr=""><![CDATA[Đặt Bomb]]></lines>
+    <lines name="bomb_manager" descr=""><![CDATA[Quản Lý]]></lines>
+    <lines name="bomb_createnew" descr=""><![CDATA[Tạo Bomb mới]]></lines>
+    <lines name="bomb_cutbom" descr=""><![CDATA[Tìm bomb]]></lines>
+    <lines name="bomb_mycut" descr=""><![CDATA[Bomb tôi đã đặt]]></lines>
+    <lines name="bomb_myset" descr=""><![CDATA[Bomb tôi đã gỡ]]></lines>
+    <lines name="bomb_list" descr=""><![CDATA[Danh sách Bomb]]></lines>
+    <lines name="bomb_green" descr=""><![CDATA[Dây Xanh]]></lines>
+    <lines name="bomb_red" descr=""><![CDATA[Dây Đỏ]]></lines>
+    <lines name="bomb_btitle" descr=""><![CDATA[Tiêu đề bomb (ko dấu)]]></lines>
+    <lines name="bomb_rule1" descr=""><![CDATA[<u>Tạo bomb mới:</u> Chọn màu sắc và số tiền để tạo ra loại bom mới.]]></lines>
+    <lines name="bomb_rule2" descr=""><![CDATA[<u>Gỡ bomb:</u> Chọn màu sắc của quả bom mà bạn muốn gỡ]]></lines>
+    <lines name="bomb_rule3" descr=""><![CDATA[(<span style="color:red;">Dây Đỏ</span> hoặc <span style="color:green;">Dây Xanh</span>)]]></lines>
+    <lines name="bomb_rule4" descr=""><![CDATA[Nếu màu bạn chọn là giống với màu sắc của quả bom, bạn sẽ giành chiến thắng và nhận được tiền của quả bom.]]></lines>
+    <lines name="bomb_rule5" descr=""><![CDATA[Ngược lại, nếu màu sắc mà bạn chọn là khác nhau về màu sắc của quả bom, bạn bị mất, người chơi tạo ra chiến thắng bom và sẽ nhận được tiền của bạn.]]></lines>
+    <lines name="bomb_rule6" descr=""><![CDATA[<u>Ví dụ:</u> Bạn gỡ bomb <span style="color:#A50D0F;">$1.00</span> :]]></lines>
+    <lines name="bomb_rule7" descr=""><![CDATA[Bạn chọn <span style="color:red;">Dây Đỏ</span> và màu của quả bomb là <span style="color:red;">Dây Đỏ</span>.]]></lines>
+    <lines name="bomb_rule8" descr=""><![CDATA[Bạn sẽ thắng <span style="color:#A50D0F;">$1.95</span> (<span style="color:#A50D0F;">-5% phí</span>).<br>]]></lines>
+    <lines name="bomb_rule9" descr=""><![CDATA[Bạn chọn <span style="color:green;">Dây Xanh</span> và màu của quả bomb là <span style="color:red;">Dây Đỏ</span>.]]></lines>
+    <lines name="bomb_rule10" descr=""><![CDATA[Bạn sẽ thua và mất <span style="color:#A50D0F;">$1.00</span>.]]></lines>
+    <lines name="bomb_rule11" descr=""><![CDATA[<u>Notes:</u> Phí <span style="color:#A50D0F;">5%</span>]]></lines>
+
+    <!-- Contact -->
+    <lines name="contact_title" descr=""><![CDATA[Liên hệ với chúng tôi]]></lines>
+
+    <!-- Term -->
+    <lines name="term_title" descr=""><![CDATA[Chính sách và điều khoản]]></lines>
+
+    <!-- Rule -->
+    <lines name="rule_title" descr=""><![CDATA[Luật chơi]]></lines>
+
+    <lines name="footer1" descr=""><![CDATA[Bạn đã đọc rõ và chấp hành đúng với]]></lines>
+    <lines name="footer2" descr=""><![CDATA[Điều khoản]]></lines>
+</data>

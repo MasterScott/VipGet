@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+    <lines name="welcomeText" descr=""><![CDATA[Welcome to the Liberty Reserver Centiny Game. The game is very easy to play and everyone can win up to 575% what they bet]]></lines>
+    <lines name="headerText" descr=""><![CDATA[Simple and easy earn money by play LibertyReserve game on this site.]]></lines>
+    <lines name="menu_listgame" descr=""><![CDATA[List Game]]></lines>
+    <lines name="menu_rule" descr=""><![CDATA[Rules]]></lines>
+    <lines name="menu_term" descr=""><![CDATA[Terms]]></lines>
+    <lines name="menu_contact" descr=""><![CDATA[Contact us]]></lines>
+    <lines name="column_statastic" descr=""><![CDATA[Statastic]]></lines>
+
+    <!-- Home -->
+    <lines name="home_welcome" descr=""><![CDATA[Welcome !]]></lines>
+    <lines name="home_welcome1" descr=""><![CDATA[No need to creating account, login or downloading any thing]]></lines>
+    <lines name="home_welcome2" descr=""><![CDATA[Easy playing our games and earn money]]></lines>
+    <lines name="home_welcome3" descr=""><![CDATA[Instant paying via payment method LibertyReserve]]></lines>
+    <lines name="home_welcome4" descr=""><![CDATA[Bet your choose via LR]]></lines>
+    <lines name="home_welcome5" descr=""><![CDATA[Win up to 575% money]]></lines>
+    <lines name="home_how" descr=""><![CDATA[How to play ?]]></lines>
+    <lines name="home_how1" descr=""><![CDATA[Choose from games play in our list below]]></lines>
+    <lines name="home_how2" descr=""><![CDATA[Read the rules carefully. And play fair]]></lines>
+    <lines name="home_how3" descr=""><![CDATA[Making a lot of money from our website]]></lines>
+    <lines name="home_how4" descr=""><![CDATA[If any errors or suspicious findings, please report back to us]]></lines>
+    <lines name="home_game" descr=""><![CDATA[Our games]]></lines>
+
+    <!-- Game -->
+    <lines name="game_dice" descr=""><![CDATA[Dice Batch]]></lines>
+    <lines name="game_bomb" descr=""><![CDATA[Of The Pump]]></lines>
+
+    <!-- Dice Batch -->
+    <lines name="dice_title" descr=""><![CDATA[Dice Batch]]></lines>
+    <lines name="dice_amount" descr=""><![CDATA[Amount (min 0.05):]]></lines>
+    <lines name="dice_play" descr=""><![CDATA[Play Now]]></lines>
+    <lines name="dice_showhash" descr=""><![CDATA[Click to show your hash]]></lines>
+    <lines name="dice_rule" descr=""><![CDATA[Rule]]></lines>
+    <lines name="dice_rule1" descr=""><![CDATA[Choose the dice from 1 - 6, and money you want to spend]]></lines>
+    <lines name="dice_rule2" descr=""><![CDATA[System to create 5 random number attachments sequence characters safe to ensure secure]]></lines>
+    <lines name="dice_rule3" descr=""><![CDATA[Spend money via Liberty Reserve. You need login to your account to pay]]></lines>
+    <lines name="dice_rule4" descr=""><![CDATA[You will redirect to this website and see your result win or lost]]></lines>
+    <lines name="dice_rule5" descr=""><![CDATA[You will win 195% if last 5 Batch Number contain dice number you choose]]></lines>
+    <lines name="dice_rule6" descr=""><![CDATA[If more than one number. So multiply. Especially if identical 5, You will win 575%]]></lines>
+    <lines name="dice_example" descr=""><![CDATA[Example]]></lines>
+    <lines name="dice_example1" descr=""><![CDATA[You choose dice number <b class='dupResult'>3</b>]]></lines>
+    <lines name="dice_example2" descr=""><![CDATA[You spend 1$]]></lines>
+    <lines name="dice_example3" descr=""><![CDATA[Your randum number is 6374/6374/vNHI8SMcPC8FA&hiPrxn => hash: d58b1657a9af3aa92f5bcb53f0e5e824]]></lines>
+    <lines name="dice_example4" descr=""><![CDATA[Your compare number is sum(6374 + BATCH NUMBER) (0 is replaced by random system)]]></lines>
+    <lines name="dice_example5" descr=""><![CDATA[If your last 5 BATCH NUMBER is 2993 -> Compare 9<b class='dupResult'>3</b>67 -> You win 195% -> You receive 1.95$]]></lines>
+    <lines name="dice_example6" descr=""><![CDATA[If your last 5 BATCH NUMBER is 1961 -> Compare 8<b class='dupResult'>33</b>5 -> You win 290% -> You receive 2.9$]]></lines>
+    <lines name="dice_example7" descr=""><![CDATA[If your last 5 BATCH NUMBER is 6963 -> Compare <b class='dupResult'>333</b>7 -> You win 385% -> You receive 3.85$]]></lines>
+    <lines name="dice_example8" descr=""><![CDATA[If your last 5 BATCH NUMBER is 6959 -> Compare <b class='dupResult'>3333</b> -> You win 480% -> You receive 4.8$]]></lines>
+    <lines name="dice_example9" descr=""><![CDATA[If your last 5 BATCH NUMBER is 1234 -> Compare 7608 -> You lose !]]></lines>
+
+    <!-- Bomb -->
+    <lines name="bomb_title" descr=""><![CDATA[Bomb]]></lines>
+    <lines name="bomb_manager" descr=""><![CDATA[MANAGE YOUR BOMB]]></lines>
+    <lines name="bomb_createnew" descr=""><![CDATA[Create new bomb]]></lines>
+    <lines name="bomb_cutbom" descr=""><![CDATA[Cut Bomb]]></lines>
+    <lines name="bomb_mycut" descr=""><![CDATA[My bomb set]]></lines>
+    <lines name="bomb_myset" descr=""><![CDATA[My Bomb cut]]></lines>
+    <lines name="bomb_list" descr=""><![CDATA[List Bomb]]></lines>
+    <lines name="bomb_green" descr=""><![CDATA[GREEN]]></lines>
+    <lines name="bomb_red" descr=""><![CDATA[RED]]></lines>
+    <lines name="bomb_btitle" descr=""><![CDATA[Title of your bomb]]></lines>
+    <lines name="bomb_rule1" descr=""><![CDATA[<u>Create New Bomb:</u> Select color and amount to create new bomb.]]></lines>
+    <lines name="bomb_rule2" descr=""><![CDATA[<u>Defuse Bomb:</u> Select color of bomb you want to defuse]]></lines>
+    <lines name="bomb_rule3" descr=""><![CDATA[(<span style="color:red;">RED</span> or <span style="color:green;">GREEN</span>)]]></lines>
+    <lines name="bomb_rule4" descr=""><![CDATA[If the color you selected is same with color of bomb, you will win and get money of bomb.]]></lines>
+    <lines name="bomb_rule5" descr=""><![CDATA[Conversely, if color you selected is different to color of bomb, you lose, player create bomb win and will get money of you.]]></lines>
+    <lines name="bomb_rule6" descr=""><![CDATA[<u>Example:</u> You defuse bomb <span style="color:#A50D0F;">$1.00</span> :]]></lines>
+    <lines name="bomb_rule7" descr=""><![CDATA[You select <span style="color:red;">RED</span> and color of bomb is <span style="color:red;">RED</span>.]]></lines>
+    <lines name="bomb_rule8" descr=""><![CDATA[You win and get <span style="color:#A50D0F;">$0.99</span> (<span style="color:#A50D0F;">-1% fee</span>).<br>]]></lines>
+    <lines name="bomb_rule9" descr=""><![CDATA[You select <span style="color:green;">GREEN</span> and color of bomb is <span style="color:red;">RED</span>.]]></lines>
+    <lines name="bomb_rule10" descr=""><![CDATA[You lose and loss <span style="color:#A50D0F;">$1.00</span>.]]></lines>
+    <lines name="bomb_rule11" descr=""><![CDATA[<u>Notes:</u> Fee <span style="color:#A50D0F;">1%</span>, min <span style="color:#A50D0F;">$0.02</span> - max <span style="color:#A50D0F;">$0.05</span>]]></lines>
+
+    <!-- Contact -->
+    <lines name="contact_title" descr=""><![CDATA[Contact us]]></lines>
+
+    <!-- Term -->
+    <lines name="term_title" descr=""><![CDATA[Term and Conditions]]></lines>
+
+    <!-- Rule -->
+    <lines name="rule_title" descr=""><![CDATA[Rules]]></lines>
+
+    <lines name="footer1" descr=""><![CDATA[Use of this site constitutes acceptance of our]]></lines>
+    <lines name="footer2" descr=""><![CDATA[Terms and Conditions]]></lines>
+
+</data>
